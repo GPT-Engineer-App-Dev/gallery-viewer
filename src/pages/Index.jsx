@@ -3,8 +3,10 @@
 const Index = () => {
   return (
     <div className="text-center">
-      <h1 className="text-3xl">Your Blank Canvas</h1>
-      <p>Chat with the agent to start making edits.</p>
+      <h1 className="text-3xl">Welcome to the Gallery</h1>
+      <p className="mt-4">
+        Explore our collection of beautiful images from various artists. Navigate through the sidebar to view the gallery, learn more about us, or contact us.
+      </p>
     </div>
   );
 };
